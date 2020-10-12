@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Exercise</string>
+    <string name="shared_pref_key">animals</string>
+    <string name="edit">Edit</string>
+</resources>
